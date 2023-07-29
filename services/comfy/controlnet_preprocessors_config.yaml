@@ -1,0 +1,4 @@
+# where are the ckpts stored?
+annotator_ckpts_path: "controlnet_pre_ckpts/ckpts"
+skip_v1: False
+#annotator_ckpts_path: "./ckpts"
